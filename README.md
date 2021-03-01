@@ -1,1 +1,1 @@
-# MyRepository contains SQL,Pandas and Python practice code
+# MyPythonPandasRepository contains Pandas and Python practice code
